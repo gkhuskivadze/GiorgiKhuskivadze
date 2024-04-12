@@ -9,7 +9,7 @@ and libraries is really fascinating for me. As a programmer, I always have new t
       
 - 👨‍💻 All of my projects are available at [https://github.com/gkhuskivadze](https://github.com/gkhuskivadze)
 
-- 📫 How to reach me **https://www.linkedin.com/in/giorgikhuskivadze/**
+- 📫 How to reach me **https://www.linkedin.com/in/gkhuskivadze/**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
