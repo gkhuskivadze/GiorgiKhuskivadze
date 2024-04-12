@@ -21,7 +21,7 @@ and libraries is really fascinating for me. As a programmer, I always have new t
 
 <p align="center">
   <a href="https://github.com/gkhuskivadze">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giorgihhuskivadze&theme=radical" alt="Giorgi Khuskivadze's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gkhuskivadze&theme=radical" alt="Giorgi Khuskivadze's GitHub Contribution"/>
   </a>
 </p>
 <a> 
