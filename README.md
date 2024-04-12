@@ -32,8 +32,6 @@ and libraries is really fascinating for me. As a programmer, I always have new t
   <br/>
 </a>
 
-[![Giorgi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkhuskivadze)](https://github.com/giorgikhuskivadze/github-readme-stats)
-
 <p align="center">
   <a href="https://github.com/gkhuskivadze">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=gkhuskivadze&theme=radical&border=7F3FBF&background=0D1117" alt="GiorgiKhuskivadze's GitHub streak"/>
