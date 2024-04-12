@@ -26,13 +26,13 @@ and libraries is really fascinating for me. As a programmer, I always have new t
 </p>
 <a> 
   
-  <a href="https://github.com/GiorgiKhuskivadze"><img alt="GiorgiKhuskivadze's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=GiorgiKhuskivadze&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=CDB4DB&icon_color=CDB4DB" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/GiorgiKhuskivadze"><img alt="GiorgiKhuskivadze's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=GiorgiKhuskivadze&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=CDB4DB&icon_color=CDB4DB" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/giorgikhuskivadze"><img alt="giorgikhuskivadze's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=giorgikhuskivadze&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=CDB4DB&icon_color=CDB4DB" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/giorgikhuskivadze"><img alt="giorgikhuskivadze's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=giorgikhuskivadze&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=CDB4DB&icon_color=CDB4DB" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 <p align="center">
   <a href="https://github.com/GiorgiKhuskivadze">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiorgiKhuskivadze&theme=radical&border=7F3FBF&background=0D1117" alt="GiorgiKhuskivadze's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=giorgikhuskivadze&theme=radical&border=7F3FBF&background=0D1117" alt="GiorgiKhuskivadze's GitHub streak"/>
   </a>
 </p>
